@@ -1,0 +1,13 @@
+  4 01 2024 redcuer  
+   updating STate ;
+   action reducer 
+
+   state is the app level 
+   changed usign a action 
+   dispatched to a reducer fucntion ;
+   the state is updated 
+
+06 01 2024
+
+   always check the response from the server 
+  
